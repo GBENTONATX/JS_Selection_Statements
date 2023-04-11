@@ -42,7 +42,7 @@ case "august":
 case "september":
 case "october":
 case "november":
-  console.log( "Autumn");
+  console.log("Autumn");
   break;  
 } 
 
